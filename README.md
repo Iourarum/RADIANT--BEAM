@@ -1,3 +1,5 @@
+![](RADIANT -BEAM.jpeg)
+
 # radiant_beam — Q1 codebase
 
 Multimodal AI for glioma analysis. NVIDIA Academic Grant Program.
