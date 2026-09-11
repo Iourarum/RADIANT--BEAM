@@ -1,4 +1,4 @@
-![](RADIANT%20-BEAM.jpeg)
+![](RADIANT%20-BEAM3.png)
 
 # radiant_beam — Q1 codebase
 
